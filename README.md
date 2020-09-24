@@ -1,0 +1,1 @@
+# Array-newObject_literal
