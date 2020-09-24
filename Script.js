@@ -6,7 +6,7 @@ console.log( " Hello " + name);
 }
 array[2](array[0]);
 array[2](array[1]);
-array[3] = { Course: " HTML , CSS & JS "
+array[3] = { Course: " HTML , CSS & JS ";
 Topic: "JavaScript array new object literal"};
 console.log(array[3].Course);
 console.log(array[3].Topic);
